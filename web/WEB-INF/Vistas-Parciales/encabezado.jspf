@@ -1,0 +1,11 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div>
+    <div class="encabezado">
+        Sistema dde Control de Inventario
+    </div>
+    <div class="contenido">
+        
+   <!--Este div no se cierra aqui , se cierra en pie.jsp -->
+
+<h2>Hello World!</h2>
