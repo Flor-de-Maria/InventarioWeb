@@ -19,8 +19,8 @@ public class Prueba {
     public static void main(String[] args) {
         Prueba evaluar = new Prueba();
         evaluar.listarCategorias();
-       // evaluar.editarCategoria();
-       // evaluar.guardaCategoria();
+       //evaluar.editarCategoria();
+        //evaluar.guardaCategoria();
         //evaluar.eliminarCategoria();
     }
 
